@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react-webinar-1/static/css/main.ea1455b2.chunk.css",
+    "main.js": "/react-webinar-1/static/js/main.5fb8a97a.chunk.js",
+    "main.js.map": "/react-webinar-1/static/js/main.5fb8a97a.chunk.js.map",
+    "runtime-main.js": "/react-webinar-1/static/js/runtime-main.48238eb2.js",
+    "runtime-main.js.map": "/react-webinar-1/static/js/runtime-main.48238eb2.js.map",
+    "static/js/2.733382f7.chunk.js": "/react-webinar-1/static/js/2.733382f7.chunk.js",
+    "static/js/2.733382f7.chunk.js.map": "/react-webinar-1/static/js/2.733382f7.chunk.js.map",
+    "index.html": "/react-webinar-1/index.html",
+    "static/css/main.ea1455b2.chunk.css.map": "/react-webinar-1/static/css/main.ea1455b2.chunk.css.map",
+    "static/js/2.733382f7.chunk.js.LICENSE.txt": "/react-webinar-1/static/js/2.733382f7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.48238eb2.js",
+    "static/js/2.733382f7.chunk.js",
+    "static/css/main.ea1455b2.chunk.css",
+    "static/js/main.5fb8a97a.chunk.js"
+  ]
+}
